@@ -43,7 +43,7 @@
     "ts-node": "^10.9.2"
   },
   "devDependencies": {
-    "@next/eslint-plugin-next": "^14.2.13",
+    "@next/eslint-plugin-next": "^15.1.4",
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.5.0",
     "@testing-library/react": "^16.0.1",
